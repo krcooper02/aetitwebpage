@@ -68,6 +68,18 @@
 ====================================================================
 
  ***/
+#main-banner-slider h1 {
+  background-color: black;
+  opacity: .75;
+  padding: 10px;
+}
+
+#main-banner-slider h6 {
+  background-color: black;
+  opacity: .75;
+  padding: 5px;
+}
+
 #loader-wrapper {
   position: fixed;
   top: 0;
@@ -93,6 +105,17 @@
   background:#e04f5d;
   position:absolute;
   animation: preloader_1 1.5s  infinite ease-in-out;
+}
+
+.toplogo {
+  width: 250px;
+}
+
+.project-button {
+  border: 10px solid rgb(40, 254, 10);
+  border-radius: 3px;
+  background-color: black;
+  opacity: .7;
 }
 
 #preloader_1 span:nth-child(2){
@@ -274,7 +297,7 @@ animation-delay: .8s;
 .blog-details-post-wrapper .comment-area .single-comment .comment button:hover {
   background: #d73e4d;
 }
-.banner .project-button,#about-us .icon,#about-us .single-about-content a.more,
+.banner ,#about-us .icon,#about-us .single-about-content a.more,
 #service-section .single-service-content:hover,#project-section .project-menu ul li.active,
 #project-section .project-menu ul li:hover,.page-middle-banner .opacity a,
 #team-section .team-member-wrapper .single-team-member .img .opacity h4,#pricing-section .single-price-table a,
