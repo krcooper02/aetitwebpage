@@ -291,6 +291,8 @@ animation-delay: .8s;
 .blog-details-post-wrapper .post-share-area .share li a.active {
   color:#d73e4d;
 }
+
+
 .p-color-bg,.theme-title h2:before,#about-us .single-about-content:hover .icon,
 #skill-section .codeconSkillbar .skillBar,#our-client .owl-theme .owl-dots .owl-dot.active span,
 #our-client .owl-theme .owl-dots .owl-dot:hover span,
@@ -1648,4 +1650,5 @@ footer p {
 
 #bottomlogo {
   width: 300px;
+  margin: 0 auto;
 }
