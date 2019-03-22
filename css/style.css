@@ -1042,6 +1042,33 @@ animation-delay: .8s;
 #pricing-section .single-price-table a:hover {
   background: #fff;
 }
+
+.fouryear table, td {
+  border: 3px solid green;
+  color: white;
+}
+
+.fouryear thead {
+  font-weight: bold;
+}
+
+#twoyear table {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#twoyear thead {
+  font-weight: bold;
+}
+
+.page-middle-banner table{
+  width: 75%;
+  margin: 0 auto;
+}
+.page-middle-banner h2, h5{
+  color: white;
+}
+
 /***
 
 ====================================================================
