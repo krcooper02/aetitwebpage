@@ -41,6 +41,12 @@ https://krcooper02.github.io/aetitwebpage/
     *Found links for what sections to include in the news
     *Put in titles, pictures and links to the RSEF section --> still lots of improvments to be made
     *Decided the three main news events
+    
+* 3-25-2019
+    *Found pictures for the news section and oriented them so that they were all the same size and fit correctly
+    *Found events to use in news section (did research found links etc.)
+    *Deleted the extra unneeded code for the news section from the original template
+
 
 ## WHAT WE NEED TO FINISH: 
 >Finish news section, start on outreach section, 
