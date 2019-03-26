@@ -1,7 +1,8 @@
 https://krcooper02.github.io/aetitwebpage/
 
 # AET IT and Computer Science Webpage
-### Kyle Cooper and Bhavna Prakash
+## Kyle Cooper and Bhavna Prakash
+## Website Overview
 >The website is an Academy of Engineering and Technology Website that is specific to the Information Technology and Computer Science Pathway. The website includes an about us section (description of pathway), the IT faculty list, IT related upcoming events, a course overview (for the 4year course, the 2year course, and the IT entrepenuer course), IT related school news, outreach for IT, IT related volunteering, and how to contact us (AET).
 
 
