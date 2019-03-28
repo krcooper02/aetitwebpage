@@ -3,7 +3,7 @@ https://krcooper02.github.io/aetitwebpage/
 # AET IT and Computer Science Webpage
 ## Kyle Cooper and Bhavna Prakash
 ## Website Overview
->The website is an Academy of Engineering and Technology Website that is specific to the Information Technology and Computer Science Pathway. The website includes an about us section (description of pathway), the IT faculty list, IT related upcoming events, a course overview (for the 4year course, the 2year course, and the IT entrepenuer course), IT related school news, outreach for IT, IT related volunteering, and how to contact us (AET).
+>The website is an Academy of Engineering and Technology Website that is specific to the Information Technology and Computer Science Pathway. The website includes an about us section (description of pathway), the IT faculty list, IT related upcoming events, a course overview (for the 4year course, the 2year course, and the IT entrepreneur course), IT related school news, outreach for IT, IT related volunteering, and how to contact us (AET).
 
 
 ## Release History
@@ -48,7 +48,7 @@ https://krcooper02.github.io/aetitwebpage/
     *Deleted the extra unneeded code for the news section from the original template
 
 
-## WHAT WE NEED TO FINISH: 
+## What we need to finish: 
 >Finish news section, start on outreach section, 
 start volunteer section, finish contact us section
 
