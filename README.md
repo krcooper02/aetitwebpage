@@ -46,9 +46,17 @@ https://krcooper02.github.io/aetitwebpage/
     *Found pictures for the news section and oriented them so that they were all the same size and fit correctly
     *Found events to use in news section (did research found links etc.)
     *Deleted the extra unneeded code for the news section from the original template
+    *Changed the size of the outreach section
+    *Put in filler text for outreach section
+    *deleted template info and added a title for outreach section
 
-
+* 3-28-2019
+    *Went into the map javascript file and changed the name and of the map to"Academies of Loudoun"
+    *Changed the coordinates of the map to the ACL building
+    *Added information to the volunteering section, including link to tealsK12
+    *Linked the volunteering section to Mrs. Yeager's email so students could email her with any questions
+    *Changed outreach section font style and font color accordingly and made sure it was visible against the background
+    
+  
 ## What we need to finish: 
->Finish news section, start on outreach section, 
-start volunteer section, finish contact us section
-
+>Finished
