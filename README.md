@@ -48,7 +48,7 @@ https://krcooper02.github.io/aetitwebpage/
     *Deleted the extra unneeded code for the news section from the original template
 
 
-## WHAT WE NEED TO FINISH: 
+## What we need to finish: 
 >Finish news section, start on outreach section, 
 start volunteer section, finish contact us section
 
