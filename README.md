@@ -56,7 +56,7 @@ https://krcooper02.github.io/aetitwebpage/
     *Added information to the volunteering section, including link to tealsK12
     *Linked the volunteering section to Mrs. Yeager's email so students could email her with any questions
     *Changed outreach section font style and font color accordingly and made sure it was visible against the background
-    
+    *Put "under construction" for outreach section
   
 ## What we need to finish: 
 >Finished
